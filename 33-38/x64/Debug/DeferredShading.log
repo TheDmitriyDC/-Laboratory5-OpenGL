@@ -1,0 +1,7 @@
+﻿  arcball_camera.cpp
+E:\Learning\27-38\27-28-32\ogldev\Windows\ogldev_vs_2022\DeferredShading\source\arcball_camera.h(4,10): fatal error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+  DeferredShading.cpp
+E:\Learning\27-38\27-28-32\ogldev\Windows\ogldev_vs_2022\DeferredShading\source\DeferredShading.cpp(1,10): fatal error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+  framebuffer.cpp
+E:\Learning\27-38\27-28-32\ogldev\Windows\ogldev_vs_2022\DeferredShading\source\framebuffer.h(4,10): fatal error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+  Generating Code...
